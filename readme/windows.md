@@ -3,9 +3,9 @@
 
 ![youtube-icon-24.png](youtube-icon-24.png) [This Tutorial as YouTube Video](https://youtu.be/hIfoSy82a_U)
 
-For a smooth and easy Java development experience some prerequisites are required.
-Unfortunately an IDE - Integrated Development environment for developing a sophisticated team project is not enough.
-The following tool stack is supporting you doing various tasks more easily.
+Untuk pengalaman pengembangan Java yang lancar dan mudah, diperlukan beberapa prasyarat.
+Sayangnya IDE - Integrated Development environment untuk mengembangkan proyek tim yang canggih tidaklah cukup.
+Tumpukan alat berikut ini mendukung Anda melakukan berbagai tugas dengan lebih mudah.
 
 - [Install an Archiver and Extractor Tool](#install-an-archiver-and-extractor-tool)
 - [Install a simple Text Editor (notepad++)](#install-a-simple-text-editor-notepad)
@@ -24,9 +24,9 @@ The following tool stack is supporting you doing various tasks more easily.
 
 <br/>
 
-## Install an Archiver and Extractor Tool
+## Instal Alat Pengarsip dan Ekstraktor
 
-There are several options of powerful archivers and extractors on Windows:
+Ada beberapa pilihan pengarsip dan ekstraktor yang kuat di Windows:
 
 - WinRAR
 - 7Zip
@@ -34,8 +34,8 @@ There are several options of powerful archivers and extractors on Windows:
 
 ### WinRAR
 
-WinRAR is a powerful archiver extractor tool, and can open all popular file formats.
-Make sure the default archive format is zip and not rar since rar cannot be easily open on platforms like linux and macOS.
+WinRAR adalah alat ekstraktor pengarsipan yang kuat, dan dapat membuka semua format file populer.
+Pastikan format arsip default adalah zip dan bukan rar karena rar tidak dapat dibuka dengan mudah di platform seperti linux dan macOS.
 
 [WinRAR download: WinRAR](https://www.win-rar.com/start.html?&L=0)
 
@@ -47,14 +47,14 @@ Make sure the default archive format is zip and not rar since rar cannot be easi
 
 ### 7ZIP
 
-7-Zip is a file archiver with a high compression ratio. 7-Zip is free software with open source.
+7-Zip adalah pengarsipan file dengan rasio kompresi tinggi. 7-Zip adalah perangkat lunak gratis dengan sumber terbuka.
 
 [Download](https://www.7-zip.org/download.html)
 
 
 ## Install a simple Text Editor (notepad++)
 
-We need an easy to use and fast a loadable editor for editing some simple text files.
+Kami membutuhkan editor yang mudah digunakan dan cepat untuk mengedit beberapa file teks sederhana.
 
 [Download Notepad++](https://notepad-plus-plus.org/downloads/)
 
@@ -64,14 +64,11 @@ We need an easy to use and fast a loadable editor for editing some simple text f
 
 ### Download Cmder
 
-Cmder is a software package created out of pure frustration over the absence of nice console emulators on Windows.
-The standard _cmd.exe_ on Windows is for a lot of development tasks not usable.
-It is more convenient using a linux style console including _git for windows_.
+Cmder adalah paket perangkat lunak yang dibuat karena frustrasi murni karena tidak adanya emulator konsol yang bagus di Windows. Cmd.exe standar pada Windows adalah untuk banyak tugas pengembangan yang tidak dapat digunakan. Lebih nyaman menggunakan konsol gaya linux termasuk git untuk windows.
 
 [Cmder | Console Emulator](https://cmder.net/ )
 
-Mke sure you download the full version including git.
-
+Pastikan Anda mengunduh versi lengkap termasuk git.
 <br/>
 
 ![cmder-download.png](cmder-download.png)
@@ -81,11 +78,11 @@ Mke sure you download the full version including git.
 
 ### Install Cmder
 
-1. Unzip and copy the Cmder files to a folder with a short file name without any special characters e.g. `C:\dev\tools\cmder`.
-2. Create a Windows Environment Variable `CMDER_ROOT` which points to `C:\dev\tools\cmder`
-3. Start Cmder and set the console to bash
-4. Check the git version
-5. Check the installation path of git
+1. Buka zip dan salin file Cmder ke folder dengan nama file pendek tanpa karakter khusus, mis. `C:\dev\tools\cmder`.
+2. Buat Windows Environment Variable  `CMDER_ROOT` yang mengarah ke `C:\dev\tools\cmder`
+3. Jalankan Cmder dan atur konsol ke bash
+4. Periksa versi git
+5. Periksa jalur instalasi git
 
 ### 1. Unzip and copy the files to a folder with a short file name
 
@@ -99,8 +96,8 @@ Copy the _Cmder_ files to a folder with a short file name without any special ch
 
 ### 2. Create a Windows Environment Variable `CMDER_ROOT`
 
-Create a Windows Environment Variable `CMDER_ROOT` which points to `C:\dev\tools\cmder`.
-Type in the _Windows search bar_ the name `sysdm.cpl`.
+Buat Windows Environment Variable `CMDER_ROOT` yang mengarah ke `C:\dev\tools\cmder`.
+Ketik di bilah pencarian _Windows_ nama `sysdm.cpl`.
 
 <br/>
 
